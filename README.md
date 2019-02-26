@@ -10,6 +10,14 @@ This example combines:
 
 to build a Monorepo FullStack GraphQL App which can be deployed by a single command `now`.
 
+## Direct ancestors
+
+[typescript](https://github.com/softspider/typescript)
+
+## Direct descendants
+
+Yet absent
+
 ---
 **Install**
 
