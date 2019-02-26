@@ -23,24 +23,38 @@ Yet absent
 
 ## Install
 
-`yarn`
+```sh
+yarn
+```
 
-## Running(dev)
+## Running dev-mode
 
-`cd api && yarn dev`
+```sh
+cd api && yarn dev
+```
 
-`cd www && yarn dev`
+```sh
+cd www && yarn dev
+```
 
 ## Generate Types
 
 With api running
 
-`cd www && yarn gen`
+```sh
+cd www && yarn gen
+```
 
 ## Deploy
 
-`now`
+```sh
+now
+```
 
+## Authors
+
+- [Dennis Kortsch](https://github.com/DennisKo) - original code
+- [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
 
 ## Inspired by
 
