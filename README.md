@@ -44,7 +44,7 @@ With api running
 
 ## Inspired by
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+[An Apollo Server & Client in a yarn Workspace deployed with Zeit 2.0](https://github.com/DennisKo/zeit-now-next-apollo-typescript-example)
 
 ### License
 
