@@ -25,7 +25,7 @@ Yet absent
 
 `yarn`
 
-## Dev-Running
+## Running(dev)
 
 `cd api && yarn dev`
 
