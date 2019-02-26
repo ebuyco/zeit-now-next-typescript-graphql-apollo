@@ -40,3 +40,12 @@ With api running
 ## Deploy
 
 `now`
+
+
+## Inspired by
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+### License
+
+Licensed under the [MIT license](./LICENSE).
