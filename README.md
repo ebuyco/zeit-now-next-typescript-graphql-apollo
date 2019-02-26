@@ -1,3 +1,5 @@
+# An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0
+
 This example combines:
 
 - [Yarn Workspaces](https://yarnpkg.com/lang/en/docs/workspaces/)
