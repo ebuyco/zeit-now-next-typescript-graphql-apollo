@@ -20,22 +20,23 @@ to build a Monorepo FullStack GraphQL App which can be deployed by a single comm
 Yet absent
 
 ---
-**Install**
+
+## Install
 
 `yarn`
 
-**Develop**
+## Dev-Running
 
 `cd api && yarn dev`
 
 `cd www && yarn dev`
 
-**Generate Types**
+## Generate Types
 
 With api running
 
 `cd www && yarn gen`
 
-**Deploy**
+## Deploy
 
 `now`
