@@ -56,8 +56,8 @@ now
 
 ## Authors
 
-- [Dennis Kortsch](https://github.com/DennisKo) - original code
-- [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
+* [Dennis Kortsch](https://github.com/DennisKo) - original code
+* [Alexander Lapygin](https://github.com/AlexanderLapygin) - catching in [Soft Spiders Net](https://github.com/softspider)
 
 ## Inspired by
 
