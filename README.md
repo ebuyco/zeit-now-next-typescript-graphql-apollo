@@ -14,8 +14,7 @@ to build a Monorepo FullStack GraphQL App which can be deployed by a single comm
 
 ## Direct ancestors
 
-- [HelloWorld in TypeScript](https://github.com/softspider/typescript)
-- [Minimalistic Next.js example](https://github.com/softspider/next.js)
+- [Minimal Next in TypeScript](https://github.com/softspider/next-typescript)
 - [Zeit Now "HelloWorld" example](https://github.com/softspider/now)
 
 ## Direct descendants
