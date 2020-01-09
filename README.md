@@ -1,3 +1,4 @@
+SOFTSPIDER
 # An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0
 
 This example combines:
@@ -12,12 +13,12 @@ This example combines:
 
 to build a Monorepo FullStack GraphQL App which can be deployed by a single command `now`.
 
-## Direct feature ancestors
+## Direct ancestors
 
 - [Minimal Next in TypeScript](https://github.com/softspider/next-typescript)
 - [Zeit Now "HelloWorld" example](https://github.com/softspider/now)
 
-## Direct feature descendants
+## Direct descendants
 
 Yet absent
 
