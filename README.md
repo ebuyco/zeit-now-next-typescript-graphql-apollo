@@ -62,6 +62,6 @@ now
 
 [An Apollo Server & Client in a yarn Workspace deployed with Zeit 2.0](https://github.com/DennisKo/zeit-now-next-apollo-typescript-example)
 
-### License
+## License
 
 Licensed under the [MIT license](./LICENSE).
