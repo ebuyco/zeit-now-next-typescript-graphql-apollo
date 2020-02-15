@@ -20,9 +20,11 @@ to build a Monorepo FullStack GraphQL App which can be deployed by a single comm
 - graphql
 - next
 - now
+- react
 - starter
 - template
 - typescript
+- yarn-workspaces
 - zeit
 
 ## Direct ancestors
